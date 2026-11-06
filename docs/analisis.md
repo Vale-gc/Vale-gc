@@ -19,15 +19,24 @@
 
 ## 3. Revisión de repositorios fijados
 
-Elige 2 o 3 repositorios fijados de estos perfiles y completa la tabla abriendo cada uno.
+Repositorios revisados:
 
-Sugeridos: `react-simple-pull-to-refresh` y `nodejs-typescript-express-apollo-graphql-starter` (thmsgbrt); `Pwnagetty` y `love-lock-card` (CyrisXD).
+- [react-simple-pull-to-refresh](https://github.com/thmsgbrt/react-simple-pull-to-refresh) (thmsgbrt)
+- [nodejs-typescript-express-apollo-graphql-starter](https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter) (thmsgbrt)
+- [love-lock-card](https://github.com/CyrisXD/love-lock-card) (CyrisXD)
 
-| Característica | Repo 1: | Repo 2: | Repo 3: |
-|----------------|---------|---------|---------|
-| Descripción corta, topics y enlace a demo/sitio | | | |
-| README (propósito, tecnologías, instalación/uso, capturas) | | | |
-| Licencia y `.gitignore` | | | |
-| Historial de commits (frecuencia y calidad de mensajes) | | | |
-| Issues, Pull Requests, ramas y Releases | | | |
-| Estructura de carpetas | | | |
+| Característica | react-simple-pull-to-refresh | nodejs-typescript-express-apollo-graphql-starter | love-lock-card |
+|----------------|------------------------------|--------------------------------------------------|----------------|
+| **Descripción corta, topics y enlace a demo/sitio** | La descripción es solo el comando de instalación; el campo de sitio apunta al paquete en npm y el README enlaza a una demo en GitHub Pages. | La descripción invita a leer el tutorial y el sitio enlaza a ese tutorial en Medium. | Descripción clara de lo que hace (tarjeta de Home Assistant que bloquea tarjetas con contraseña o confirmación). Sin sitio ni topics visibles. |
+| **README** | Muy completo: insignias (npm, licencia, tipos), qué es, demo, instalación, uso con código, tabla de props y changelog con créditos a colaboradores. Sin capturas. | Mínimo: título y un enlace al tutorial. Toda la explicación vive fuera del repositorio. | Completo: aviso de mantenimiento, descripción y advertencia de seguridad, GIF de ejemplo, tabla de opciones, instalación, ejemplos de configuración y créditos. |
+| **Licencia y `.gitignore`** | Licencia MIT (el archivo se llama `LICENCE`) y `.gitignore`. | `.gitignore`; sin archivo de licencia. | Licencia MIT; sin `.gitignore`. |
+| **Historial de commits** | 122 commits. Parte del historial son actualizaciones automáticas de dependencias. | 12 commits.| 21 commits. |
+| **Issues, PRs, ramas y Releases** | 9 issues y 18 PRs abiertos, con colaboradores externos acreditados en el changelog. Sin releases publicadas. | 8 PRs abiertos; 47 estrellas y 11 forks. Sin releases. | 19 issues y 1 PR abiertos; 153 estrellas y 15 forks. Sin releases. |
+| **Estructura de carpetas** | Organizada: `src`, `docs`, `playground`, `.vscode` y archivos de configuración (`package.json`, `tsconfig.json`, `rollup.config.js`, `.prettierrc.yaml`). | `src`, `.vscode` y configuración (`package.json`, `tsconfig.json`, `.prettierrc`). | Plana y mínima: `love-lock-card.js`, `hacs.json`, `README.md` y `LICENSE`. |
+
+### Lo que me llevo para mis repositorios
+
+- Un README con propósito, instalación, uso y un ejemplo visual (como el de love-lock-card) se entiende sin salir de GitHub; el que depende de un tutorial externo deja al visitante con poca información.
+- La licencia y el `.gitignore` son detalles pequeños que dan sensación de proyecto cuidado.
+- Una descripción corta que diga qué hace el proyecto (no solo cómo instalarlo) ayuda a que los repos fijados se entiendan a primera vista.
+- Un aviso honesto sobre el estado del proyecto (en mantenimiento, sin nuevas funciones) evita expectativas falsas.
