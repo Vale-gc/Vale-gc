@@ -40,3 +40,19 @@ Repositorios revisados:
 - La licencia y el `.gitignore` son detalles pequeños que dan sensación de proyecto cuidado.
 - Una descripción corta que diga qué hace el proyecto (no solo cómo instalarlo) ayuda a que los repos fijados se entiendan a primera vista.
 - Un aviso honesto sobre el estado del proyecto (en mantenimiento, sin nuevas funciones) evita expectativas falsas.
+
+## 4. Requisitos de mi perfil
+
+### Requisitos funcionales
+
+- Mostrar en las primeras líneas mi nombre, rol y ubicación.
+- Incluir una sección de habilidades agrupada por categorías.
+- Destacar de 3 a 4 proyectos, cada uno con su ficha (problema, tecnologías, enlace al repo y a la demo si existe).
+- Ofrecer al menos un canal de contacto visible.
+- Estar publicado también como sitio en GitHub Pages.
+
+### Requisitos no funcionales
+
+- **Legibilidad:** secciones cortas y con jerarquía clara; que se lea bien en móvil.
+- **Accesibilidad:** texto alternativo en las imágenes, nada de texto importante dentro de imágenes, buen contraste.
+- **Mantenibilidad:** solo Markdown, sin depender de servicios externos para información esencial, y commits pequeños con mensajes descriptivos.
