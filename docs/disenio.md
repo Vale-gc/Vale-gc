@@ -40,3 +40,20 @@ Esquema del archivo:
 - Correo:
 - LinkedIn:
 ```
+
+## 2. Diseño del contenido
+
+| Sección | Qué incluiré | Qué evitaré | Formato | Enlaces necesarios | Lectura rápida |
+|---------|--------------|-------------|---------|--------------------|----------------|
+| Presentación | Nombre, rol, frase corta | Texto largo o datos personales sensibles | Título y una línea | Ninguno | Lo esencial en las primeras 2 líneas |
+| Sobre mí | Estudiante de Ing. en Computación en Ecuador, aprendiendo sobre desarrollo web | Párrafos largos, frases genéricas | Texto corto | Ninguno | Máximo 3 líneas |
+| Habilidades | Solo tecnologías que he usado en proyectos | Listas enormes de insignias (solo esenciales), tecnologías que apenas conozco | Tabla por categoría con nombres en texto | Ninguno | Categorías claras y nombres escritos |
+| Proyectos destacados | Ficha de cada proyecto (ver sección 4) | Proyectos sin README o sin terminar | Subtítulo y lista por proyecto | Repositorio y demo | 4 o 5 líneas por proyecto |
+| Contacto | Correo electrónico, LinkedIn, Instagram | Canales que no reviso | Lista | Correo, LinkedIn, etc. | Visible al final, sin adornos |
+
+Decisiones generales de diseño:
+
+- Todo en Markdown; sin HTML ni CSS.
+- Las imágenes llevarán texto alternativo, y nada importante irá escrito *dentro* de una imagen.
+- Evitaré depender de servicios externos para información esencial (estadísticas, widgets).
+- El orden de la página sigue lo que más interesa a quien me visita: quién soy, qué sé hacer, qué he construido, cómo contactarme.
