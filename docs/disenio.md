@@ -49,7 +49,7 @@ Esquema del archivo:
 | Sobre mí | Estudiante de Ing. en Computación en Ecuador, aprendiendo sobre desarrollo web | Párrafos largos, frases genéricas | Texto corto | Ninguno | Máximo 3 líneas |
 | Habilidades | Solo tecnologías que he usado en proyectos | Listas enormes de insignias (solo esenciales), tecnologías que apenas conozco | Tabla por categoría con nombres en texto | Ninguno | Categorías claras y nombres escritos |
 | Proyectos destacados | Ficha de cada proyecto (ver sección 4) | Proyectos sin README o sin terminar | Subtítulo y lista por proyecto | Repositorio y demo | 4 o 5 líneas por proyecto |
-| Contacto | Correo electrónico, LinkedIn, Instagram | Canales que no reviso | Lista | Correo, LinkedIn, etc. | Visible al final, sin adornos |
+| Contacto | Correo electrónico, LinkedIn | Canales que no reviso | Lista | Correo, LinkedIn, etc. | Visible al final, con íconos |
 
 Decisiones generales de diseño:
 
