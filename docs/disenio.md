@@ -57,3 +57,53 @@ Decisiones generales de diseño:
 - Las imágenes llevarán texto alternativo, y nada importante irá escrito *dentro* de una imagen.
 - Evitaré depender de servicios externos para información esencial (estadísticas, widgets).
 - El orden de la página sigue lo que más interesa a quien me visita: quién soy, qué sé hacer, qué he construido, cómo contactarme.
+
+## 3. Estrategia de commits
+
+Usaré [Commits Convencionales](https://www.conventionalcommits.org/es/v1.0.0-beta.2/): `tipo: descripción corta en minúsculas`.
+
+| Tipo | Cuándo lo uso |
+|------|---------------|
+| `docs:` | Cambios de contenido en documentos y README |
+| `feat:` | Agregar una sección o un proyecto nuevo |
+| `fix:` | Corregir errores (ortografía, enlaces rotos) |
+| `chore:` | Estructura inicial u organización del repositorio |
+
+Reglas:
+
+- Un commit por cambio importante; nunca todo el trabajo en uno solo.
+- Reviso el resultado en GitHub antes de pasar al siguiente cambio.
+- Mensajes en español, descriptivos y en tiempo presente.
+
+## 4. Fichas de proyectos destacados
+
+### Proyecto 1: MIJO, asistente de voz para verificar noticias
+
+- **Problema o necesidad que resuelve:** ayuda a verificar información y noticias hablando con un asistente, sin tener que escribir. Diseñado para adultos mayores.
+- **Tecnologías utilizadas:** React, Vite, Node.js y Express, Web Speech API (reconocimiento y síntesis de voz) y la API de Anthropic para generar las respuestas.
+- **Funcionalidades principales:** reconocimiento de voz real, respuestas habladas, respuestas generadas por IA, chat con historial, adjuntar imagen o enlace y minijuegos educativos.
+- **Mi aporte:** La etapa de ideación de la aplicación fue junto a mis compañeros, y luego me encargué de desarrollar el diseño del prototipo y la app funcional.
+- **Repositorio:** https://github.com/Vale-gc/mijo-app
+- **Demostración:** Puedes probar la app web en el enlace: [MIJO](https://mijo-frontend.onrender.com)
+
+### Proyecto 2: Landing page del Festival Perla del Pacífico
+
+- **Problema o necesidad que resuelve:** difunde un festival cultural de música clásica realizado en el Centro Cívico de Guayaquil y acerca el evento a la comunidad.
+- **Tecnologías utilizadas:** HTML, CSS y JavaScript sobre la plantilla Story de HTML5 UP, con Git y GitHub (ramas y pull requests) para el control de versiones.
+- **Funcionalidades principales:** sitio de una sola página adaptable a móvil, con secciones del festival, artistas, director, programa, lugar, galería y contacto.
+- **Mi aporte:** Realicé principalmente los cambios en el HTML, escogiendo entre los estilos que ofrecía la plantilla y editando el contenido.
+- **Repositorio:** https://github.com/Vale-gc/perla-pacifico-web
+- **Demostración:** https://vale-gc.github.io/perla-pacifico-web/
+
+### Proyecto 3: ResQ-Mesh, red de rescate sin conexión
+
+- **Problema o necesidad que resuelve:** después de un terremoto, sin torres celulares ni internet, permite que una persona atrapada pida ayuda golpeando tres veces y que el centro de mando reciba la alerta.
+- **Tecnologías utilizadas:** JavaScript (módulos ES, sin frameworks), Web Audio API, BroadcastChannel API (red mesh simulada), HTML5 y CSS.
+- **Funcionalidades principales:** detección de tres golpes por el micrófono, botón de SOS manual, envío de alertas como paquetes por la red, lista de triaje ordenada por urgencia, sirena de respuesta y marcado de sectores atendidos.
+- **Mi aporte:** realicé el código del estado global del sistema y la conexión entre todas las partes (audio, canales, paquetes, interfaz) a través de store.js y app.js.
+- **Repositorio:** https://github.com/Geannesan/CS_Hackathon
+- **Demostración:** funciona en local con un servidor simple.
+
+## Referencias
+
+- Commits Convencionales. (n.d.). *Commits Convencionales*. https://www.conventionalcommits.org/es/v1.0.0-beta.2/
