@@ -23,7 +23,9 @@ Me interesa la tecnología que ayuda a las personas en situaciones reales. Duran
 | Frontend | ![React](https://img.shields.io/badge/React-61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF) |
 | Backend | ![Node.js](https://img.shields.io/badge/Node.js-339933) ![Express](https://img.shields.io/badge/Express-000000) |
 | Herramientas | ![Git](https://img.shields.io/badge/Git-F05032) ![GitHub](https://img.shields.io/badge/GitHub-181717) ![Figma](https://img.shields.io/badge/Figma-F24E1E) |
- 
+
+Python y Java son los lenguajes con los que más trabajo, y los he aplicado en programación orientada a objetos. En la universidad aprendí a manejar bases de datos con SQL y a programar en lenguaje ensamblador MIPS. En desarrollo web uso JavaScript, React y Node.js.
+
 ---
  
 <!--
