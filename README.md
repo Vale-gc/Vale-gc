@@ -14,6 +14,18 @@ Me interesa la tecnología que ayuda a las personas en situaciones reales. Duran
  
 ---
 
+## 🛠️ Habilidades y tecnologías
+
+| Categoría | Tecnologías |
+|-----------|-------------|
+| Lenguajes | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E) ![Python](https://img.shields.io/badge/Python-3776AB) ![Java](https://img.shields.io/badge/Java-ED8B00) ![HTML5](https://img.shields.io/badge/HTML5-E34F26) ![CSS](https://img.shields.io/badge/CSS-1572B6) |
+| Bases de datos | ![SQL](https://img.shields.io/badge/SQL-4479A1) |
+| Frontend | ![React](https://img.shields.io/badge/React-61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF) |
+| Backend | ![Node.js](https://img.shields.io/badge/Node.js-339933) ![Express](https://img.shields.io/badge/Express-000000) |
+| Herramientas | ![Git](https://img.shields.io/badge/Git-F05032) ![GitHub](https://img.shields.io/badge/GitHub-181717) ![Figma](https://img.shields.io/badge/Figma-F24E1E) |
+ 
+---
+ 
 <!--
 **Vale-gc/Vale-gc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
