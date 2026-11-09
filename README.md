@@ -1,13 +1,16 @@
-# Hola! Soy Valeria 👋
+# ¡Hola! Soy Valeria 👋
  
-Estudiante de Ingeniería en Computación en ESPOL · Desarrollo web y de software
+Estudiante de Ingeniería en Computación en ESPOL
+
+*Cada proyecto es una oportunidad para aprender algo nuevo.*
  
 ## 🙋‍♀️ Sobre mí
  
 Me interesa la tecnología que ayuda a las personas en situaciones reales. Durante mis estudios he aprendido a programar en lenguajes como Python y Java, y me gusta poner en práctica lo aprendido en proyectos y hackathons con amigos.
 
-> [!NOTE]
-> Actualmente estoy aprendiendo desarrollo web con HTML, JavaScript, React y Vite. Mi siguiente objetivo es explorar las redes y la ciberseguridad.
+> 📚 **Aprendiendo ahora:** desarrollo web con HTML, JavaScript, React y Vite.
+
+> 🎯 **Siguiente objetivo:** explorar las redes y la ciberseguridad.
  
 ---
 
