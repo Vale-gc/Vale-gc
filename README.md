@@ -28,6 +28,18 @@ Python y Java son los lenguajes con los que más trabajo, y los he aplicado en p
 
 ---
  
+## 🚀 Proyectos destacados
+ 
+### 😊 MIJO: Asistente de voz para verificar noticias
+ 
+Aplicación web diseñada principalmente para adultos mayores que permite verificar información o noticias hablando con un asistente, sin tener que escribir.
+ 
+- **Tecnologías:** React, Vite, Node.js, Express, Figma, Web Speech API y API de Anthropic.
+- **Funcionalidades:** reconocimiento de voz real, respuestas habladas, respuestas generadas por IA, chat con historial, permite adjuntar imagen o enlace y minijuegos educativos.
+- **Mi aporte:** Ideé la aplicación junto a mis compañeros; después diseñé el prototipo en Figma y desarrollé la app funcional.
+- **Repositorio:** [Vale-gc/mijo-app](https://github.com/Vale-gc/mijo-app)
+- **Demostración:** Puedes probar la app web en [MIJO](https://mijo-frontend.onrender.com)
+
 <!--
 **Vale-gc/Vale-gc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
