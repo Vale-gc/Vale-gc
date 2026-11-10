@@ -62,22 +62,8 @@ Proyecto de hackathon en equipo. Tras un terremoto, sin internet ni torres celul
 
 ## 📫 Contacto
 
-- **Gmail:** [valeriagavela@gmail.com](mailto:valeriagavela@gmail.com)
-- **LinkedIn:** [Valeria Gavela](https://www.linkedin.com/in/valeria-gavela-7b6a0230a)
-- **GitHub:** [Vale-gc](https://github.com/Vale-gc)
-
-
-<!--
-**Vale-gc/Vale-gc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Correo](https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valeriagavela@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/valeria-gavela-7b6a0230a)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vale-gc)
+ 
+**Correo:** valeriagavela@gmail.com
