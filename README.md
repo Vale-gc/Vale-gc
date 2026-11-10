@@ -40,6 +40,18 @@ Aplicación web diseñada principalmente para adultos mayores que permite verifi
 - **Repositorio:** [Vale-gc/mijo-app](https://github.com/Vale-gc/mijo-app)
 - **Demostración:** Puedes probar la app web en [MIJO](https://mijo-frontend.onrender.com)
 
+### 🎡 Festival Perla del Pacífico: Landing page
+ 
+Sitio de una sola página para difundir un festival cultural de música clásica realizado en el Centro Cívico de Guayaquil.
+ 
+- **Tecnologías:** HTML, CSS y JavaScript sobre la plantilla Story de HTML5 UP; Git y GitHub para el control de versiones.
+- **Funcionalidades:** diseño adaptable a móvil, con secciones del festival, artistas, director, programa, lugar, galería y contacto.
+- **Mi aporte:** Realicé principalmente los cambios en el HTML, escogiendo entre los estilos que ofrecía la plantilla y editando el contenido.
+- **Repositorio:** [Vale-gc/perla-pacifico-web](https://github.com/Vale-gc/perla-pacifico-web)
+- **Demostración:** https://vale-gc.github.io/perla-pacifico-web/
+
+
+
 <!--
 **Vale-gc/Vale-gc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
