@@ -50,7 +50,15 @@ Sitio de una sola página para difundir un festival cultural de música clásica
 - **Repositorio:** [Vale-gc/perla-pacifico-web](https://github.com/Vale-gc/perla-pacifico-web)
 - **Demostración:** https://vale-gc.github.io/perla-pacifico-web/
 
+### 🚨 ResQ-Mesh: red de rescate sin conexión
+ 
+Proyecto de hackathon en equipo. Tras un terremoto, sin internet ni torres celulares, una persona atrapada golpea tres veces y su celular detecta los golpes con el micrófono; el centro de mando recibe la alerta en una lista priorizada. La demo simula la red con dos pestañas del navegador.
 
+- **Tecnologías:** JavaScript (módulos ES), Web Audio API, BroadcastChannel API, HTML5 y CSS.
+- **Funcionalidades:** detección de tres golpes por micrófono, SOS manual, alertas por una red mesh simulada, triaje por urgencia y sirena de respuesta.
+- **Mi aporte:** Desarrollé el estado global del sistema (`store.js`) y la orquestación que conecta el audio, los canales, los paquetes y la interfaz (`app.js`).
+- **Repositorio:** [Geannesan/CS_Hackathon](https://github.com/Geannesan/CS_Hackathon)
+- **Demostración:** funciona en local con un servidor simple.
 
 <!--
 **Vale-gc/Vale-gc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
