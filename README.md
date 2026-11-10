@@ -60,6 +60,13 @@ Proyecto de hackathon en equipo. Tras un terremoto, sin internet ni torres celul
 - **Repositorio:** [Geannesan/CS_Hackathon](https://github.com/Geannesan/CS_Hackathon)
 - **Demostración:** funciona en local con un servidor simple.
 
+## 📫 Contacto
+
+- **Gmail:** [valeriagavela@gmail.com](mailto:valeriagavela@gmail.com)
+- **LinkedIn:** [Valeria Gavela](https://www.linkedin.com/in/valeria-gavela-7b6a0230a)
+- **GitHub:** [Vale-gc](https://github.com/Vale-gc)
+
+
 <!--
 **Vale-gc/Vale-gc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
